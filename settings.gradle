@@ -1,0 +1,2 @@
+rootProject.name='SwipeViewsUsingViewPager'
+include ':app'
